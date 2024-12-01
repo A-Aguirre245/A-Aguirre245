@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Andres Aguirre
 - 👀 I’m interested in Game and Software Development!
-- 🌱 I’m currently studying at the University of Kentucky, with a major in Computer Science and Math, and a minor in Psychology and Spanish
+- 🌱 I’m currently studying at the University of Kentucky, with a major in Computer Science and Mathematics, and a minor in Psychology and Spanish
 - 📫 How to reach me - email: andres.ab04@gmail.com
